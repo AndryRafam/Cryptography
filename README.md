@@ -2,6 +2,7 @@
 Cryptography is a repository which contains and will contains cryptographic protocol. It is intended for edcuational purpose; not for practical use.
 
 # List in alphabetical order
+- 3_DES : Triple DES
 - ARC4 : Rivest Cipher 4 by Ronald Rivest
 - Blowfish : By Bruce Schneier
 - Caesar : Caesar cipher
@@ -10,4 +11,4 @@ Cryptography is a repository which contains and will contains cryptographic prot
 - ROT13 : Rotational 13 encryption
 - OTP : One Time Pad by Gilbert Vernam
 - Spritz : Updated version of RC4 by Ronald Rivest himself
-- 3_DES : Triple DES
+

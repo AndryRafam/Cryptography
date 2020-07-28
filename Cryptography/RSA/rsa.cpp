@@ -40,7 +40,7 @@ class Rsa{
 			std::cout << std::endl << std::endl;
 		}
 		catch(Exception& e){
-			std::cerr << "Caugh Exception..." << std::endl;
+			std::cerr << "Exception Raised > " << std::endl;
 			std::cerr << e.what() << std::endl;
 		}
 		return;
